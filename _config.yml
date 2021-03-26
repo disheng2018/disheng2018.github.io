@@ -3,15 +3,15 @@ title: 涤小生
 SEOTitle: 涤小生
 header-img: img/post-desk-bg.jpg
 email: zjl63258@126.com
-description: "eDiary, Everything, Total Commander, Python"
-keyword: "eDiary, Everything, Total Commander, Python"
+description: "Everything, Total Commander, Python"
+keyword: "Everything, Total Commander, Python"
 url: "http://disheng2018.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/disheng2018/disheng2018.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "<strong>学无止境：</strong><br>Python在学<br>Android Studio在学<br>《魔之趣》APP编写者<br>优秀软件重度收集者<br>\"Quora文选\"微信公众号运营者<br>>>>本职是风电工程师<<<"
+sidebar-about-description: "<strong>学无止境：</strong><br>Python在学<br>UiPath在学<br>《魔之趣》APP<br>优秀软件重度收集者<br>\"Quora文选\"微信公众号运营者<br>>>>本职是电气工程师<<<"
 sidebar-avatar: /img/my-profile.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
