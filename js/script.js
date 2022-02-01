@@ -55,7 +55,7 @@ $(document).on({
         afterPjax();
 
         /*移动端打开文章后，自动隐藏文章列表*/
-        if ($(window).width() <= 1024) {
+        if ($(window).width() <= 624) {
             if ($fullBtn.children().hasClass("max")) {
                 $fullBtn.trigger("click");
             } else if ($(".nav").hasClass("mobile")) {
