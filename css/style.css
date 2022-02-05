@@ -1510,7 +1510,7 @@ div.ac > ul > li:before,
   list-style: none;
 }
 .post .pjax article ol>li {
-  margin-bottom: 10px;
+  margin-bottom: 0px;
   margin-left: -9px;
 }
 .post .pjax article ul:not(.pre-numbering)>li {
@@ -1695,19 +1695,44 @@ h4,
 h5,
 h6 {
   color: #333;
-  line-height: 1.5;
+  line-height: 1.4;
   margin-top: 35px;
   margin-bottom: 10px;
   padding-bottom: 5px;
 }
 h1 {
-  font-size: 2em;
+  font-size: 2.25em;
   margin: 0.67em 0;
 }
 h2 {
   padding-bottom: 12px;
   font-size: 24px;
   border-bottom: 1px solid #ececec;
+}
+h4 {
+  font-size: 1.25em;
+}
+ul,
+ol,
+li {
+  margin: 0 0;
+  padding-left: -3px;
+  margin-left: -3px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+ul:first-child,
+ol:first-child {
+  margin-top: 0px;
+}
+ul:last-child,
+ol:last-child {
+  margin-bottom: 0;
+}
+code {
+  background-color: #f3f4f4;
+  color: #c2254e;
+  padding: 0 2px 0 2px;
 }
 .nav {
   position: relative;
