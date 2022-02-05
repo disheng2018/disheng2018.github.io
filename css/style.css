@@ -1709,8 +1709,11 @@ h2 {
   font-size: 24px;
   border-bottom: 1px solid #ececec;
 }
+h3 {
+  font-size: 20px;
+}
 h4 {
-  font-size: 1.25em;
+  font-size: 18px;
 }
 code {
   background-color: #f3f4f4;
