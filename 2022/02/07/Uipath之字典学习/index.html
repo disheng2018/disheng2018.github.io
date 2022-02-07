@@ -1,0 +1,94 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta http-equiv="content-type" content="text/html; charset=utf-8"><meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"><meta content="yes" name="apple-mobile-web-app-capable"><meta content="black-translucent" name="apple-mobile-web-app-status-bar-style"><meta content="telephone=no" name="format-detection"><meta name="description" content="安安静静写点东西"><title>Uipath里的“字典”学习笔记 | 小众资源</title><link rel="stylesheet" type="text/css" href="/blog/css/style.css?v=1.0.0"><link rel="stylesheet" type="text/css" href="/blog/css/dark.css?v=1.0.0"><link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/normalize.css/normalize.min.css"><link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/purecss/build/pure-min.min.css"><link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/purecss/build/grids-responsive-min.css"><link rel="stylesheet" href="//cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css"><script type="text/javascript" src="//cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script><link rel="icon" mask="" sizes="any" href="/blog/favicon.ico"><link rel="Shortcut Icon" type="image/x-icon" href="/blog/favicon.ico"><link rel="apple-touch-icon" href="/blog/apple-touch-icon.png"><link rel="apple-touch-icon-precomposed" href="/blog/apple-touch-icon.png"><script type="text/javascript" src="//cdn.jsdelivr.net/npm/clipboard/dist/clipboard.min.js"></script><script type="text/javascript" src="//cdn.jsdelivr.net/gh/codeseven/toastr/build/toastr.min.js"></script><link rel="stylesheet" href="//cdn.jsdelivr.net/gh/codeseven/toastr/build/toastr.min.css"><div class="darkmode-toggle">🌓</div><script>var prefersDarkMode = window.matchMedia('(prefers-color-scheme: dark)');
+var toggle = document.querySelector('.darkmode-toggle');
+var html = document.querySelector('html');
+
+html.dataset.dark = localStorage.dark || prefersDarkMode.matches;
+
+toggle.addEventListener('click', () => {
+localStorage.dark = !(html.dataset.dark == 'true');
+html.dataset.dark = localStorage.dark;
+});</script><meta name="generator" content="Hexo 6.0.0"></head><body><div class="body_container"><div id="header"><div class="site-name"><h1 class="hidden">Uipath里的“字典”学习笔记</h1><a id="logo" href="/blog/.">小众资源</a><p class="description">安安静静写点东西</p></div><div id="nav-menu"><a class="current" href="/blog/."><i class="fa fa-home"> 首页</i></a><a href="/blog/selected/"><i class="fa fa-rss"> 精选</i></a><a href="/blog/about/"><i class="fa fa-user"> 关于</i></a><a href="/blog/archives/"><i class="fa fa-archive"> 归档</i></a><a href="/blog/tags/"><i class="fa fa-tags"> 标签</i></a></div></div><div class="pure-g" id="layout"><div class="pure-u-1 pure-u-md-3-4"><div class="content_container"><div class="post"><h1 class="post-title">Uipath里的“字典”学习笔记</h1><div class="post-meta">2022-02-07<span> | </span><span class="category"><a href="/blog/categories/RPA/">RPA</a><a href="/blog/categories/RPA/Uipath/">Uipath</a></span></div><div class="post-content"><h1 id="Uipath之字典学习"><a href="#Uipath之字典学习" class="headerlink" title="Uipath之字典学习"></a>Uipath之字典学习</h1><p><code>2022年01月24日 10:45:19</code></p>
+<h2 id="0-参考网址"><a href="#0-参考网址" class="headerlink" title="0 参考网址"></a>0 参考网址</h2><ul>
+<li><a target="_blank" rel="noopener" href="https://www.dotnetperls.com/dictionary-vbnet">https://www.dotnetperls.com/dictionary-vbnet</a></li>
+</ul>
+<h2 id="1-字典写法"><a href="#1-字典写法" class="headerlink" title="1 字典写法"></a>1 字典写法</h2><figure class="highlight vb"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">New</span> Dictionary(<span class="keyword">of</span> <span class="type">String</span>, <span class="type">String</span>) <span class="keyword">From</span> &#123;&#123;<span class="string">&quot;A&quot;</span>,<span class="string">&quot;111&quot;</span>&#125;,&#123;<span class="string">&quot;B&quot;</span>,<span class="string">&quot;222&quot;</span>&#125;&#125;</span><br></pre></td></tr></table></figure>
+
+<img src="https://gitee.com/zjloved/blogimg/raw/master/img/image-20220124105630120.png" alt="image-20220124105630120" style="zoom: 80%;" />
+
+
+
+<h3 id="1-1-变量需要选类型"><a href="#1-1-变量需要选类型" class="headerlink" title="1.1 变量需要选类型"></a>1.1 变量需要选类型</h3><img src="https://gitee.com/zjloved/blogimg/raw/master/img/image-20220124105728863.png" alt="image-20220124105728863" style="zoom:80%;" />
+
+<h2 id="2-类型"><a href="#2-类型" class="headerlink" title="2 类型"></a>2 类型</h2><h3 id="2-1-item"><a href="#2-1-item" class="headerlink" title="2.1 item"></a>2.1 item</h3><p>这个分两种：1、dictionary本身的item；2、for each的item</p>
+<h4 id="2-1-1-dictionary本身的item"><a href="#2-1-1-dictionary本身的item" class="headerlink" title="2.1.1 dictionary本身的item"></a>2.1.1 dictionary本身的item</h4><img src="https://gitee.com/zjloved/blogimg/raw/master/img/image-20220124115850775.png" alt="image-20220124115850775" style="zoom:80%;" />
+
+<blockquote>
+<p>输出为：</p>
+<p>111</p>
+</blockquote>
+<h4 id="2-1-2-for-each的item"><a href="#2-1-2-for-each的item" class="headerlink" title="2.1.2 for each的item"></a>2.1.2 for each的item</h4><img src="https://gitee.com/zjloved/blogimg/raw/master/img/image-20220124110756994.png" alt="image-20220124110756994" style="zoom:80%;" />
+
+<blockquote>
+<p> 输出为：<br>[A, 111]</p>
+<p>[B, 222]</p>
+</blockquote>
+<h3 id="2-2-Keys和Values"><a href="#2-2-Keys和Values" class="headerlink" title="2.2 Keys和Values"></a>2.2 Keys和Values</h3><img src="https://gitee.com/zjloved/blogimg/raw/master/img/image-20220124110817893.png" alt="image-20220124110817893" style="zoom:80%;" />
+
+<blockquote>
+<p>输出为：</p>
+<p>key: A</p>
+<p>value: 111</p>
+<p>key: B</p>
+<p>value: 222</p>
+</blockquote>
+<h3 id="2-3-ContainsKey和ContainsValue"><a href="#2-3-ContainsKey和ContainsValue" class="headerlink" title="2.3 ContainsKey和ContainsValue"></a>2.3 ContainsKey和ContainsValue</h3><p><code>布尔值</code></p>
+<img src="https://gitee.com/zjloved/blogimg/raw/master/img/image-20220124120735819.png" alt="image-20220124120735819" style="zoom:80%;" />
+
+<img src="Pics/image-20220124113335393.png" alt="image-20220124113335393" style="zoom:80%;" />
+
+<blockquote>
+<p>输出为：</p>
+<p>True</p>
+</blockquote>
+<h3 id="2-4-TryGetValue"><a href="#2-4-TryGetValue" class="headerlink" title="2.4 TryGetValue"></a>2.4 TryGetValue</h3><p><code>布尔值</code></p>
+<img src="https://gitee.com/zjloved/blogimg/raw/master/img/image-20220124120716303.png" alt="image-20220124120716303" style="zoom:80%;" />
+
+<figure class="highlight vb"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">Module</span> Module1</span><br><span class="line">    <span class="keyword">Sub</span> Main()</span><br><span class="line">        <span class="keyword">Dim</span> values <span class="keyword">As</span> Dictionary(<span class="keyword">Of</span> <span class="type">String</span>, <span class="type">String</span>) = <span class="built_in">New</span> Dictionary(<span class="keyword">Of</span> <span class="type">String</span>, <span class="type">String</span>)</span><br><span class="line">        values.Add(<span class="string">&quot;A&quot;</span>, <span class="string">&quot;uppercase letter A&quot;</span>)</span><br><span class="line">        values.Add(<span class="string">&quot;c&quot;</span>, <span class="string">&quot;lowercase letter C&quot;</span>)</span><br><span class="line"></span><br><span class="line">        <span class="comment">&#x27; Get value with TryGetValue.</span></span><br><span class="line">        <span class="keyword">Dim</span> result <span class="keyword">As</span> <span class="type">String</span> = <span class="literal">Nothing</span></span><br><span class="line">        <span class="keyword">If</span> values.TryGetValue(<span class="string">&quot;c&quot;</span>, result) <span class="keyword">Then</span></span><br><span class="line">            Console.WriteLine(<span class="string">&quot;RESULT: &#123;0&#125;&quot;</span>, result)</span><br><span class="line">        <span class="keyword">End</span> <span class="keyword">If</span></span><br><span class="line">    <span class="keyword">End</span> <span class="keyword">Sub</span></span><br><span class="line"><span class="keyword">End</span> <span class="keyword">Module</span></span><br><span class="line"><span class="symbol">RESULT:</span> lowercase letter C</span><br></pre></td></tr></table></figure>
+
+<img src="https://gitee.com/zjloved/blogimg/raw/master/img/image-20220124115443326.png" alt="image-20220124115443326" style="zoom:80%;" />
+
+<blockquote>
+<p>输出为：</p>
+<p>True</p>
+</blockquote>
+<h3 id="2-5-Count"><a href="#2-5-Count" class="headerlink" title="2.5 Count"></a>2.5 Count</h3><img src="https://gitee.com/zjloved/blogimg/raw/master/img/image-20220124120336974.png" alt="image-20220124120336974" style="zoom:80%;" />
+
+<blockquote>
+<p>输出值为：</p>
+<p>2</p>
+</blockquote>
+<h3 id="2-6-Add"><a href="#2-6-Add" class="headerlink" title="2.6 Add"></a>2.6 Add</h3><p><code>.Add在assign里错误的解释：</code></p>
+<img src="https://gitee.com/zjloved/blogimg/raw/master/img/image-20220124122556366.png" alt="image-20220124122556366" style="zoom:80%;" />
+
+<img src="https://gitee.com/zjloved/blogimg/raw/master/img/image-20220124122240675.png" alt="image-20220124122240675" style="zoom:80%;" />
+
+<p>方法：</p>
+<ul>
+<li><a target="_blank" rel="noopener" href="https://excelcult.com/how-to-define-dictionary-add-items-to-dictionary-and-access-items-from-dictionary-in-uipath/">https://excelcult.com/how-to-define-dictionary-add-items-to-dictionary-and-access-items-from-dictionary-in-uipath/</a><ol>
+<li>invoke method</li>
+</ol>
+</li>
+</ul>
+<img src="https://gitee.com/zjloved/blogimg/raw/master/img/image-20220124123639638.png" alt="image-20220124123639638" style="zoom:80%;" />
+
+<img src="https://gitee.com/zjloved/blogimg/raw/master/img/image-20220124123722932.png" alt="image-20220124123722932" style="zoom:80%;" />
+
+<ol start="2">
+<li><code>Microsoft.Activities.Extensions</code> package</li>
+</ol>
+<img src="https://gitee.com/zjloved/blogimg/raw/master/img/image-20220124125616066.png" alt="image-20220124125616066" style="zoom:80%;" />
+
+<p>拖到编程窗口才会出现如下界面，否则不能修改类型</p>
+<img src="https://gitee.com/zjloved/blogimg/raw/master/img/image-20220124125700678.png" alt="image-20220124125700678" style="zoom:80%;" />
+
+</div><div id="donate"><link rel="stylesheet" type="text/css" href="/css/donate.css"><script type="text/javascript" src="/js/donate.js" successtext="复制成功!"></script><a class="pos-f tr3" id="github" target="_blank" rel="noopener" href="https://github.com/Kaiyuan/donate-page" arget="_blank" title="Github"></a><div id="DonateText">Donate</div><ul class="list pos-f" id="donateBox"><li id="AliPay" qr="/img/weixin.jpg"></li><li id="WeChat" qr="/img/alipay.jpg"></li></ul><div class="pos-f left-100" id="QRBox"><div id="MainBox"></div></div></div><div class="tags"><a href="/blog/tags/Uipath/"><i class="fa fa-tag"></i>Uipath</a><a href="/blog/tags/RPA/"><i class="fa fa-tag"></i>RPA</a></div><div class="post-nav"><a class="next" href="/blog/2020/12/31/2020%E5%B9%B412%E6%9C%88%E6%96%87%E7%AB%A0%E6%B1%87%E6%80%BB/">2020年12月(微信)文章汇总</a></div></div></div></div><div class="pure-u-1-4 hidden_mid_and_down"><div id="sidebar"><div class="widget"><form class="search-form" action="//www.baidu.com/baidu" method="get" accept-charset="utf-8" target="_blank"><input type="search" name="word" maxlength="20" placeholder="Search"/><input type="hidden" name="si" value="https://zjloved.gitee.io/blog"/><input name="tn" type="hidden" value="bds"/><input name="cl" type="hidden" value="3"/><input name="ct" type="hidden" value="2097152"/><input name="s" type="hidden" value="on"/></form></div><div class="widget"><div class="widget-title"><i class="fa fa-folder-o"> 分类</i></div><ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/blog/categories/Quora/">Quora</a><span class="category-list-count">2</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/blog/categories/Quora/%E5%BE%AE%E4%BF%A1/">微信</a><span class="category-list-count">2</span></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/blog/categories/RPA/">RPA</a><span class="category-list-count">1</span><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/blog/categories/RPA/Uipath/">Uipath</a><span class="category-list-count">1</span></li></ul></li></ul></div><div class="widget"><div class="widget-title"><i class="fa fa-star-o"> 标签</i></div><div class="tagcloud"><a href="/blog/tags/Uipath/" style="font-size: 15px;">Uipath</a> <a href="/blog/tags/RPA/" style="font-size: 15px;">RPA</a> <a href="/blog/tags/2019%E5%B9%B4/" style="font-size: 15px;">2019年</a> <a href="/blog/tags/%E5%BE%AE%E4%BF%A1/" style="font-size: 15px;">微信</a> <a href="/blog/tags/2020%E5%B9%B4/" style="font-size: 15px;">2020年</a></div></div><div class="widget"><div class="widget-title"><i class="fa fa-file-o"> 最近文章</i></div><ul class="post-list"><li class="post-list-item"><a class="post-list-link" href="/blog/2022/02/07/Uipath%E4%B9%8B%E5%AD%97%E5%85%B8%E5%AD%A6%E4%B9%A0/">Uipath里的“字典”学习笔记</a></li><li class="post-list-item"><a class="post-list-link" href="/blog/2020/12/31/2020%E5%B9%B412%E6%9C%88%E6%96%87%E7%AB%A0%E6%B1%87%E6%80%BB/">2020年12月(微信)文章汇总</a></li><li class="post-list-item"><a class="post-list-link" href="/blog/2019/12/31/2019%E5%B9%B412%E6%9C%88%E6%96%87%E7%AB%A0%E6%B1%87%E6%80%BB/">2019年12月(微信)文章汇总</a></li></ul></div><div class="widget"><div class="widget-title"><i class="fa fa-external-link"> 友情链接</i></div><ul></ul><a href="http://www.example1.com/" title="site-name1" target="_blank">site-name1</a><ul></ul><a href="http://www.example2.com/" title="site-name2" target="_blank">site-name2</a><ul></ul><a href="http://www.example3.com/" title="site-name3" target="_blank">site-name3</a></div></div></div><div class="pure-u-1 pure-u-md-3-4"><div id="footer">Copyright © 2022 <a href="/blog/." rel="nofollow">小众资源.</a> Powered by<a rel="nofollow" target="_blank" href="https://hexo.io"> Hexo.</a><a rel="nofollow" target="_blank" href="https://github.com/tufu9441/maupassant-hexo"> Theme</a> by<a rel="nofollow" target="_blank" href="https://github.com/pagecho"> Cho.</a></div></div></div><a class="show" id="rocket" href="#top"></a><script type="text/javascript" src="/blog/js/totop.js?v=1.0.0" async></script><script type="text/javascript" src="//cdn.jsdelivr.net/gh/fancyapps/fancybox/dist/jquery.fancybox.min.js" async></script><script type="text/javascript" src="/blog/js/fancybox.js?v=1.0.0" async></script><link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/gh/fancyapps/fancybox/dist/jquery.fancybox.min.css"><script type="text/javascript" src="/js/copycode.js" successtext="复制成功!"></script><link rel="stylesheet" type="text/css" href="/css/copycode.css"><script type="text/javascript" src="/blog/js/codeblock-resizer.js?v=1.0.0"></script><script type="text/javascript" src="/blog/js/smartresize.js?v=1.0.0"></script></div></body></html>
