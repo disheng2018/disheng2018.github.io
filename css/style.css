@@ -1842,11 +1842,11 @@ img.pswp__img {
     margin-left: -492px;
   }
   .nav-left {
-    width: 100px;
+    width: 80px;
   }
   .nav-left .avatar {
-    width: 80px;
-    height: 80px;
+    width: 50px;
+    height: 50px;
   }
   .nav-left ul {
     font-size: 16px;
@@ -1870,13 +1870,15 @@ img.pswp__img {
     left: 492px;
   }
   .nav .hide-list.fullscreen {
-    left: 0;
+    left: 20px;
   }
   .post {
-    font-size: 17px;
+    font-size: 16px;
   }
   .post .pjax {
     max-width: 780px;
+    margin-left: 20px;
+    margin-right: 20px;
   }
 }
 @media screen and (max-width: 1024px) {
@@ -1942,8 +1944,8 @@ img.pswp__img {
     height: auto;
   }
   .nav-left .avatar_target .avatar {
-    height: 80px;
-    width: 80px;
+    height: 60px;
+    width: 60px;
   }
   .nav-left .more-menus {
     position: absolute;
