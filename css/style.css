@@ -1877,8 +1877,8 @@ img.pswp__img {
   }
   .post .pjax {
     max-width: 780px;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 1px;
+    margin-right: 10px;
   }
 }
 @media screen and (max-width: 1024px) {
