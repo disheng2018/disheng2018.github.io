@@ -129,11 +129,11 @@
 }
 
 #donate #donateBox #AliPay {
-    background-image: url(../img/wechat.svg);
+    background-image: url(../img/alipay.svg);
 }
 
 #donate #donateBox #WeChat {
-    background-image: url(../img/alipay.svg);
+    background-image: url(../img/wechat.svg);
 }
 
 #donate #QRBox {
