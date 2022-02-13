@@ -170,7 +170,8 @@ div {
 
 .post {
   padding: 25px 0 15px;
-  text-align: left; }
+  text-align: left;
+  background: #ffffff; }
   .post .post-title {
     margin: 0;
     color: #555;
@@ -416,7 +417,8 @@ div {
   .body_container {
     padding: 0 20px; }
   .content_container {
-    padding-right: 0; } }
+    padding-right: 0;
+    background-color: #f7f8f8; } }
 
 blockquote,
 .stressed {
