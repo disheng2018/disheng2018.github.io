@@ -1677,6 +1677,7 @@ body {
   -webkit-font-smoothing: subpixel-antialiased;
   -webkit-text-size-adjust: none;
   overflow: hidden;
+  align: left;
 }
 a {
   color: inherit;
