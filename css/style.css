@@ -236,15 +236,18 @@ div {
     .post .post-content h2 {
       margin: 1.4em 0 1.1em;
       border-bottom: 1px solid #eee;
-      overflow: hidden; }
+      overflow: hidden;
+      text-align: left; }
     .post .post-content h3 {
-      margin: 1.4em 0 1.1em; }
+      margin: 1.4em 0 1.1em;
+      text-align: left; }
     .post .post-content pre code {
       padding: 0 2em; }
     .post .post-content p {
       margin: 0 0 1.234em;
       word-break: break-word;
-      overflow-wrap: break-word; }
+      overflow-wrap: break-word;
+      text-align: left; }
       .post .post-content p code {
         display: inline-block;
         margin: 0 5px;
@@ -255,7 +258,8 @@ div {
       .post .post-content p a {
         color: #01579f;
         padding-bottom: 2px;
-        word-break: normal; }
+        word-break: normal;
+        text-align: left; }
         .post .post-content p a:hover {
           text-decoration: underline; }
     .post .post-content .caption {
