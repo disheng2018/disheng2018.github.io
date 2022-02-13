@@ -435,7 +435,8 @@ blockquote {
   text-align: left; }
 
 blockquote blockquote {
-  padding-right: 0; }
+  padding-right: 0;
+  text-align: left; }
 
 strong,
 b,
