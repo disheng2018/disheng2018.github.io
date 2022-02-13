@@ -165,7 +165,8 @@ div {
   margin-top: 1.1em;
   font-size: 20px;
   font-weight: normal;
-  color: #888; }
+  color: #888;
+  text-align: left; }
 
 .post {
   padding: 25px 0 15px;
@@ -230,7 +231,8 @@ div {
     padding-top: 15px;
     text-align: justify;
     text-justify: distribute;
-    word-break: normal; }
+    word-break: normal;
+    text-align: left; }
     .post .post-content h2 {
       margin: 1.4em 0 1.1em;
       border-bottom: 1px solid #eee;
@@ -429,7 +431,8 @@ blockquote,
 blockquote {
   border-left: 4px solid #dfe2e5;
   padding: 0 15px;
-  color: #777777; }
+  color: #777777;
+  text-align: left; }
 
 blockquote blockquote {
   padding-right: 0; }
