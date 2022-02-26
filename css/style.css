@@ -1689,6 +1689,11 @@ a {
   -o-transition: color 0.35s;
   transition: color 0.35s;
 }
+details,
+summary {
+  -webkit-details-marker: none;
+  list-style: none;
+}
 h1,
 h2,
 h3,
@@ -1850,7 +1855,7 @@ img.pswp__img {
     height: 50px;
   }
   .nav-left ul {
-    font-size: 16px;
+    font-size: 14px;
   }
   .nav-right {
     width: 390px;
