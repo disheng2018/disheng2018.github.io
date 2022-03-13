@@ -10,7 +10,7 @@
     margin-left: -492px;
   }
   .nav-left {
-    width: 80px;
+    width: 50px;
   }
   .nav-left .avatar {
     width: 50px;
@@ -112,8 +112,8 @@
     height: auto;
   }
   .nav-left .avatar_target .avatar {
-    height: 60px;
-    width: 60px;
+    height: 50px;
+    width: 50px;
   }
   .nav-left .more-menus {
     position: absolute;
