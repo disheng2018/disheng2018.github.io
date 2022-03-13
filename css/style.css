@@ -777,7 +777,7 @@ div.ac > ul > li:before,
   border-collapse: collapse;
   bottom: 0px;
   width: 100%;
-  font-size: 17px;
+  font-size: 14px;
   color: rgba(255,255,255,0.7);
 }
 .nav-left .left-bottom a {
@@ -1836,6 +1836,14 @@ img.pswp__img {
 .mobile-menus .dynamic-menu:nth-child(1) {
   margin-top: 0;
 }
+@media print {
+  * {
+    overflow: visible !important;
+  }
+  .page {
+    page-break-after: always;
+  }
+}
 @media screen and (max-width: 1468px) {
   html,
   body {
@@ -1848,7 +1856,7 @@ img.pswp__img {
     margin-left: -492px;
   }
   .nav-left {
-    width: 80px;
+    width: 50px;
   }
   .nav-left .avatar {
     width: 50px;
@@ -1950,8 +1958,8 @@ img.pswp__img {
     height: auto;
   }
   .nav-left .avatar_target .avatar {
-    height: 60px;
-    width: 60px;
+    height: 50px;
+    width: 50px;
   }
   .nav-left .more-menus {
     position: absolute;
