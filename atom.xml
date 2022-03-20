@@ -212,9 +212,9 @@
     
     <category term="★精选" scheme="http://example.com/tags/%E2%98%85%E7%B2%BE%E9%80%89/"/>
     
-    <category term="爱情" scheme="http://example.com/tags/%E7%88%B1%E6%83%85/"/>
-    
     <category term="2022年" scheme="http://example.com/tags/2022%E5%B9%B4/"/>
+    
+    <category term="爱情" scheme="http://example.com/tags/%E7%88%B1%E6%83%85/"/>
     
   </entry>
   
@@ -389,9 +389,9 @@
     
     <category term="★精选" scheme="http://example.com/tags/%E2%98%85%E7%B2%BE%E9%80%89/"/>
     
-    <category term="爱情" scheme="http://example.com/tags/%E7%88%B1%E6%83%85/"/>
-    
     <category term="2022年" scheme="http://example.com/tags/2022%E5%B9%B4/"/>
+    
+    <category term="爱情" scheme="http://example.com/tags/%E7%88%B1%E6%83%85/"/>
     
   </entry>
   
