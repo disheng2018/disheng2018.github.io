@@ -3,11 +3,11 @@
   <title>Quora文选</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://quorawx.top/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://quorawx.top/"/>
   <updated>2022-02-07T06:31:14.000Z</updated>
-  <id>http://example.com/</id>
+  <id>https://quorawx.top/</id>
   
   <author>
     <name>Quorra</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>《经济学人》等外刊合集下载群</title>
-    <link href="http://example.com/2022/03/20/%E3%80%90%E5%A4%96%E5%88%8A%E6%B1%87%E3%80%91%E5%88%86%E4%BA%AB%E3%80%8A%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E3%80%8B%E7%AD%89%E6%9D%82%E5%BF%97/"/>
-    <id>http://example.com/2022/03/20/%E3%80%90%E5%A4%96%E5%88%8A%E6%B1%87%E3%80%91%E5%88%86%E4%BA%AB%E3%80%8A%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E3%80%8B%E7%AD%89%E6%9D%82%E5%BF%97/</id>
+    <link href="https://quorawx.top/2022/03/20/%E3%80%90%E5%A4%96%E5%88%8A%E6%B1%87%E3%80%91%E5%88%86%E4%BA%AB%E3%80%8A%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E3%80%8B%E7%AD%89%E6%9D%82%E5%BF%97/"/>
+    <id>https://quorawx.top/2022/03/20/%E3%80%90%E5%A4%96%E5%88%8A%E6%B1%87%E3%80%91%E5%88%86%E4%BA%AB%E3%80%8A%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E3%80%8B%E7%AD%89%E6%9D%82%E5%BF%97/</id>
     <published>2022-03-20T02:21:44.849Z</published>
     <updated>2022-02-07T06:31:14.000Z</updated>
     
@@ -30,17 +30,17 @@
     
     
     
-    <category term="外刊" scheme="http://example.com/categories/%E5%A4%96%E5%88%8A/"/>
+    <category term="外刊" scheme="https://quorawx.top/categories/%E5%A4%96%E5%88%8A/"/>
     
     
-    <category term="经济学人" scheme="http://example.com/tags/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA/"/>
+    <category term="经济学人" scheme="https://quorawx.top/tags/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA/"/>
     
   </entry>
   
   <entry>
     <title>☞Quora精选文章☜</title>
-    <link href="http://example.com/2022/03/20/%E3%80%90Quora%E6%96%87%E9%80%89%E8%8B%B1%E8%AF%AD%E3%80%91%E7%B2%BE%E9%80%89%E6%96%87%E7%AB%A0/"/>
-    <id>http://example.com/2022/03/20/%E3%80%90Quora%E6%96%87%E9%80%89%E8%8B%B1%E8%AF%AD%E3%80%91%E7%B2%BE%E9%80%89%E6%96%87%E7%AB%A0/</id>
+    <link href="https://quorawx.top/2022/03/20/%E3%80%90Quora%E6%96%87%E9%80%89%E8%8B%B1%E8%AF%AD%E3%80%91%E7%B2%BE%E9%80%89%E6%96%87%E7%AB%A0/"/>
+    <id>https://quorawx.top/2022/03/20/%E3%80%90Quora%E6%96%87%E9%80%89%E8%8B%B1%E8%AF%AD%E3%80%91%E7%B2%BE%E9%80%89%E6%96%87%E7%AB%A0/</id>
     <published>2022-03-20T02:21:44.848Z</published>
     <updated>2022-02-06T03:45:18.000Z</updated>
     
@@ -55,21 +55,21 @@
     
     
     
-    <category term="Quora" scheme="http://example.com/categories/Quora/"/>
+    <category term="Quora" scheme="https://quorawx.top/categories/Quora/"/>
     
-    <category term="文选" scheme="http://example.com/categories/Quora/%E6%96%87%E9%80%89/"/>
+    <category term="文选" scheme="https://quorawx.top/categories/Quora/%E6%96%87%E9%80%89/"/>
     
     
-    <category term="Quora文选" scheme="http://example.com/tags/Quora%E6%96%87%E9%80%89/"/>
+    <category term="Quora文选" scheme="https://quorawx.top/tags/Quora%E6%96%87%E9%80%89/"/>
     
-    <category term="★精选" scheme="http://example.com/tags/%E2%98%85%E7%B2%BE%E9%80%89/"/>
+    <category term="★精选" scheme="https://quorawx.top/tags/%E2%98%85%E7%B2%BE%E9%80%89/"/>
     
   </entry>
   
   <entry>
     <title>Should I allow my 13 year old to lock their bedroom</title>
-    <link href="http://example.com/2022/03/20/2022/2022-03-20-Should-I-allow-my-13-year-old-to-lock-their-bedroom/"/>
-    <id>http://example.com/2022/03/20/2022/2022-03-20-Should-I-allow-my-13-year-old-to-lock-their-bedroom/</id>
+    <link href="https://quorawx.top/2022/03/20/2022/2022-03-20-Should-I-allow-my-13-year-old-to-lock-their-bedroom/"/>
+    <id>https://quorawx.top/2022/03/20/2022/2022-03-20-Should-I-allow-my-13-year-old-to-lock-their-bedroom/</id>
     <published>2022-03-20T02:21:44.847Z</published>
     <updated>2022-03-20T01:17:54.000Z</updated>
     
@@ -80,21 +80,21 @@
     
     
     
-    <category term="★精选" scheme="http://example.com/categories/%E2%98%85%E7%B2%BE%E9%80%89/"/>
+    <category term="★精选" scheme="https://quorawx.top/categories/%E2%98%85%E7%B2%BE%E9%80%89/"/>
     
     
-    <category term="Quora文选" scheme="http://example.com/tags/Quora%E6%96%87%E9%80%89/"/>
+    <category term="Quora文选" scheme="https://quorawx.top/tags/Quora%E6%96%87%E9%80%89/"/>
     
-    <category term="★精选" scheme="http://example.com/tags/%E2%98%85%E7%B2%BE%E9%80%89/"/>
+    <category term="★精选" scheme="https://quorawx.top/tags/%E2%98%85%E7%B2%BE%E9%80%89/"/>
     
-    <category term="2022年" scheme="http://example.com/tags/2022%E5%B9%B4/"/>
+    <category term="2022年" scheme="https://quorawx.top/tags/2022%E5%B9%B4/"/>
     
   </entry>
   
   <entry>
     <title>How do you respectfully tell guests in your home that they&#39;ve overstayed their welcome</title>
-    <link href="http://example.com/2022/03/20/2022/2022-03-19-How-do-you-respectfully-tell-guests-in-your-home-that-they%E2%80%99ve-overstayed-their-welcome/"/>
-    <id>http://example.com/2022/03/20/2022/2022-03-19-How-do-you-respectfully-tell-guests-in-your-home-that-they%E2%80%99ve-overstayed-their-welcome/</id>
+    <link href="https://quorawx.top/2022/03/20/2022/2022-03-19-How-do-you-respectfully-tell-guests-in-your-home-that-they%E2%80%99ve-overstayed-their-welcome/"/>
+    <id>https://quorawx.top/2022/03/20/2022/2022-03-19-How-do-you-respectfully-tell-guests-in-your-home-that-they%E2%80%99ve-overstayed-their-welcome/</id>
     <published>2022-03-20T02:21:44.846Z</published>
     <updated>2022-03-19T14:23:16.000Z</updated>
     
@@ -105,21 +105,21 @@
     
     
     
-    <category term="Quora" scheme="http://example.com/categories/Quora/"/>
+    <category term="Quora" scheme="https://quorawx.top/categories/Quora/"/>
     
-    <category term="文选" scheme="http://example.com/categories/Quora/%E6%96%87%E9%80%89/"/>
+    <category term="文选" scheme="https://quorawx.top/categories/Quora/%E6%96%87%E9%80%89/"/>
     
     
-    <category term="Quora文选" scheme="http://example.com/tags/Quora%E6%96%87%E9%80%89/"/>
+    <category term="Quora文选" scheme="https://quorawx.top/tags/Quora%E6%96%87%E9%80%89/"/>
     
-    <category term="2022年" scheme="http://example.com/tags/2022%E5%B9%B4/"/>
+    <category term="2022年" scheme="https://quorawx.top/tags/2022%E5%B9%B4/"/>
     
   </entry>
   
   <entry>
     <title>How do I politely refuse to give my phone to a small child who asks for it</title>
-    <link href="http://example.com/2022/03/20/2022/2022-03-19-How-do-I-politely-refuse-to-give-my-phone-to-a-small-child-who-asks-for-it/"/>
-    <id>http://example.com/2022/03/20/2022/2022-03-19-How-do-I-politely-refuse-to-give-my-phone-to-a-small-child-who-asks-for-it/</id>
+    <link href="https://quorawx.top/2022/03/20/2022/2022-03-19-How-do-I-politely-refuse-to-give-my-phone-to-a-small-child-who-asks-for-it/"/>
+    <id>https://quorawx.top/2022/03/20/2022/2022-03-19-How-do-I-politely-refuse-to-give-my-phone-to-a-small-child-who-asks-for-it/</id>
     <published>2022-03-20T02:21:44.845Z</published>
     <updated>2022-03-19T14:19:48.000Z</updated>
     
@@ -130,21 +130,21 @@
     
     
     
-    <category term="Quora" scheme="http://example.com/categories/Quora/"/>
+    <category term="Quora" scheme="https://quorawx.top/categories/Quora/"/>
     
-    <category term="文选" scheme="http://example.com/categories/Quora/%E6%96%87%E9%80%89/"/>
+    <category term="文选" scheme="https://quorawx.top/categories/Quora/%E6%96%87%E9%80%89/"/>
     
     
-    <category term="Quora文选" scheme="http://example.com/tags/Quora%E6%96%87%E9%80%89/"/>
+    <category term="Quora文选" scheme="https://quorawx.top/tags/Quora%E6%96%87%E9%80%89/"/>
     
-    <category term="2022年" scheme="http://example.com/tags/2022%E5%B9%B4/"/>
+    <category term="2022年" scheme="https://quorawx.top/tags/2022%E5%B9%B4/"/>
     
   </entry>
   
   <entry>
     <title>Are school uniforms the most effective way to eliminate social and economic differences between students</title>
-    <link href="http://example.com/2022/03/20/2022/2022-03-15-Are-school-uniforms-the-most-effective-way-to-eliminate-social-and-economic-differences-between-students/"/>
-    <id>http://example.com/2022/03/20/2022/2022-03-15-Are-school-uniforms-the-most-effective-way-to-eliminate-social-and-economic-differences-between-students/</id>
+    <link href="https://quorawx.top/2022/03/20/2022/2022-03-15-Are-school-uniforms-the-most-effective-way-to-eliminate-social-and-economic-differences-between-students/"/>
+    <id>https://quorawx.top/2022/03/20/2022/2022-03-15-Are-school-uniforms-the-most-effective-way-to-eliminate-social-and-economic-differences-between-students/</id>
     <published>2022-03-20T02:21:44.844Z</published>
     <updated>2022-03-16T08:32:14.000Z</updated>
     
@@ -155,21 +155,21 @@
     
     
     
-    <category term="★精选" scheme="http://example.com/categories/%E2%98%85%E7%B2%BE%E9%80%89/"/>
+    <category term="★精选" scheme="https://quorawx.top/categories/%E2%98%85%E7%B2%BE%E9%80%89/"/>
     
     
-    <category term="Quora文选" scheme="http://example.com/tags/Quora%E6%96%87%E9%80%89/"/>
+    <category term="Quora文选" scheme="https://quorawx.top/tags/Quora%E6%96%87%E9%80%89/"/>
     
-    <category term="★精选" scheme="http://example.com/tags/%E2%98%85%E7%B2%BE%E9%80%89/"/>
+    <category term="★精选" scheme="https://quorawx.top/tags/%E2%98%85%E7%B2%BE%E9%80%89/"/>
     
-    <category term="2022年" scheme="http://example.com/tags/2022%E5%B9%B4/"/>
+    <category term="2022年" scheme="https://quorawx.top/tags/2022%E5%B9%B4/"/>
     
   </entry>
   
   <entry>
     <title>What novels have the best opening lines or opening paragraphs</title>
-    <link href="http://example.com/2022/03/20/2022/2022-03-17-What-novels-have-the-best-opening-lines-or-opening-paragraphs/"/>
-    <id>http://example.com/2022/03/20/2022/2022-03-17-What-novels-have-the-best-opening-lines-or-opening-paragraphs/</id>
+    <link href="https://quorawx.top/2022/03/20/2022/2022-03-17-What-novels-have-the-best-opening-lines-or-opening-paragraphs/"/>
+    <id>https://quorawx.top/2022/03/20/2022/2022-03-17-What-novels-have-the-best-opening-lines-or-opening-paragraphs/</id>
     <published>2022-03-20T02:21:44.844Z</published>
     <updated>2022-03-17T13:54:22.000Z</updated>
     
@@ -180,21 +180,21 @@
     
     
     
-    <category term="Quora" scheme="http://example.com/categories/Quora/"/>
+    <category term="Quora" scheme="https://quorawx.top/categories/Quora/"/>
     
-    <category term="文选" scheme="http://example.com/categories/Quora/%E6%96%87%E9%80%89/"/>
+    <category term="文选" scheme="https://quorawx.top/categories/Quora/%E6%96%87%E9%80%89/"/>
     
     
-    <category term="Quora文选" scheme="http://example.com/tags/Quora%E6%96%87%E9%80%89/"/>
+    <category term="Quora文选" scheme="https://quorawx.top/tags/Quora%E6%96%87%E9%80%89/"/>
     
-    <category term="2022年" scheme="http://example.com/tags/2022%E5%B9%B4/"/>
+    <category term="2022年" scheme="https://quorawx.top/tags/2022%E5%B9%B4/"/>
     
   </entry>
   
   <entry>
     <title>What have you regretted the most in your life</title>
-    <link href="http://example.com/2022/03/20/2022/2022-03-13-What-have-you-regretted-the-most-in-your-life/"/>
-    <id>http://example.com/2022/03/20/2022/2022-03-13-What-have-you-regretted-the-most-in-your-life/</id>
+    <link href="https://quorawx.top/2022/03/20/2022/2022-03-13-What-have-you-regretted-the-most-in-your-life/"/>
+    <id>https://quorawx.top/2022/03/20/2022/2022-03-13-What-have-you-regretted-the-most-in-your-life/</id>
     <published>2022-03-20T02:21:44.842Z</published>
     <updated>2022-03-13T13:10:06.000Z</updated>
     
@@ -205,23 +205,23 @@
     
     
     
-    <category term="★精选" scheme="http://example.com/categories/%E2%98%85%E7%B2%BE%E9%80%89/"/>
+    <category term="★精选" scheme="https://quorawx.top/categories/%E2%98%85%E7%B2%BE%E9%80%89/"/>
     
     
-    <category term="Quora文选" scheme="http://example.com/tags/Quora%E6%96%87%E9%80%89/"/>
+    <category term="Quora文选" scheme="https://quorawx.top/tags/Quora%E6%96%87%E9%80%89/"/>
     
-    <category term="★精选" scheme="http://example.com/tags/%E2%98%85%E7%B2%BE%E9%80%89/"/>
+    <category term="★精选" scheme="https://quorawx.top/tags/%E2%98%85%E7%B2%BE%E9%80%89/"/>
     
-    <category term="爱情" scheme="http://example.com/tags/%E7%88%B1%E6%83%85/"/>
+    <category term="爱情" scheme="https://quorawx.top/tags/%E7%88%B1%E6%83%85/"/>
     
-    <category term="2022年" scheme="http://example.com/tags/2022%E5%B9%B4/"/>
+    <category term="2022年" scheme="https://quorawx.top/tags/2022%E5%B9%B4/"/>
     
   </entry>
   
   <entry>
     <title>What was the best relationship advice you ever got</title>
-    <link href="http://example.com/2022/03/20/2022/2022-03-12-What-was-the-best-relationship-advice-you-ever-got/"/>
-    <id>http://example.com/2022/03/20/2022/2022-03-12-What-was-the-best-relationship-advice-you-ever-got/</id>
+    <link href="https://quorawx.top/2022/03/20/2022/2022-03-12-What-was-the-best-relationship-advice-you-ever-got/"/>
+    <id>https://quorawx.top/2022/03/20/2022/2022-03-12-What-was-the-best-relationship-advice-you-ever-got/</id>
     <published>2022-03-20T02:21:44.841Z</published>
     <updated>2022-03-12T00:17:18.000Z</updated>
     
@@ -232,21 +232,21 @@
     
     
     
-    <category term="★精选" scheme="http://example.com/categories/%E2%98%85%E7%B2%BE%E9%80%89/"/>
+    <category term="★精选" scheme="https://quorawx.top/categories/%E2%98%85%E7%B2%BE%E9%80%89/"/>
     
     
-    <category term="Quora文选" scheme="http://example.com/tags/Quora%E6%96%87%E9%80%89/"/>
+    <category term="Quora文选" scheme="https://quorawx.top/tags/Quora%E6%96%87%E9%80%89/"/>
     
-    <category term="★精选" scheme="http://example.com/tags/%E2%98%85%E7%B2%BE%E9%80%89/"/>
+    <category term="★精选" scheme="https://quorawx.top/tags/%E2%98%85%E7%B2%BE%E9%80%89/"/>
     
-    <category term="2022年" scheme="http://example.com/tags/2022%E5%B9%B4/"/>
+    <category term="2022年" scheme="https://quorawx.top/tags/2022%E5%B9%B4/"/>
     
   </entry>
   
   <entry>
     <title>What is the rudest thing you have experienced while eating dinner at a friend&#39;s house</title>
-    <link href="http://example.com/2022/03/20/2022/2022-03-12-What-is-the-rudest-thing-you-have-experienced-while-eating-dinner-at-a-friend&#39;s-house/"/>
-    <id>http://example.com/2022/03/20/2022/2022-03-12-What-is-the-rudest-thing-you-have-experienced-while-eating-dinner-at-a-friend&#39;s-house/</id>
+    <link href="https://quorawx.top/2022/03/20/2022/2022-03-12-What-is-the-rudest-thing-you-have-experienced-while-eating-dinner-at-a-friend&#39;s-house/"/>
+    <id>https://quorawx.top/2022/03/20/2022/2022-03-12-What-is-the-rudest-thing-you-have-experienced-while-eating-dinner-at-a-friend&#39;s-house/</id>
     <published>2022-03-20T02:21:44.840Z</published>
     <updated>2022-03-12T01:04:52.000Z</updated>
     
@@ -257,21 +257,21 @@
     
     
     
-    <category term="★精选" scheme="http://example.com/categories/%E2%98%85%E7%B2%BE%E9%80%89/"/>
+    <category term="★精选" scheme="https://quorawx.top/categories/%E2%98%85%E7%B2%BE%E9%80%89/"/>
     
     
-    <category term="Quora文选" scheme="http://example.com/tags/Quora%E6%96%87%E9%80%89/"/>
+    <category term="Quora文选" scheme="https://quorawx.top/tags/Quora%E6%96%87%E9%80%89/"/>
     
-    <category term="★精选" scheme="http://example.com/tags/%E2%98%85%E7%B2%BE%E9%80%89/"/>
+    <category term="★精选" scheme="https://quorawx.top/tags/%E2%98%85%E7%B2%BE%E9%80%89/"/>
     
-    <category term="2022年" scheme="http://example.com/tags/2022%E5%B9%B4/"/>
+    <category term="2022年" scheme="https://quorawx.top/tags/2022%E5%B9%B4/"/>
     
   </entry>
   
   <entry>
     <title>What is the joy of retiring old rather than much younger</title>
-    <link href="http://example.com/2022/03/20/2022/2022-03-12-What-is-the-joy-of-retiring-old-rather-than-much-younger/"/>
-    <id>http://example.com/2022/03/20/2022/2022-03-12-What-is-the-joy-of-retiring-old-rather-than-much-younger/</id>
+    <link href="https://quorawx.top/2022/03/20/2022/2022-03-12-What-is-the-joy-of-retiring-old-rather-than-much-younger/"/>
+    <id>https://quorawx.top/2022/03/20/2022/2022-03-12-What-is-the-joy-of-retiring-old-rather-than-much-younger/</id>
     <published>2022-03-20T02:21:44.839Z</published>
     <updated>2022-03-13T05:39:52.000Z</updated>
     
@@ -282,21 +282,21 @@
     
     
     
-    <category term="★精选" scheme="http://example.com/categories/%E2%98%85%E7%B2%BE%E9%80%89/"/>
+    <category term="★精选" scheme="https://quorawx.top/categories/%E2%98%85%E7%B2%BE%E9%80%89/"/>
     
     
-    <category term="Quora文选" scheme="http://example.com/tags/Quora%E6%96%87%E9%80%89/"/>
+    <category term="Quora文选" scheme="https://quorawx.top/tags/Quora%E6%96%87%E9%80%89/"/>
     
-    <category term="★精选" scheme="http://example.com/tags/%E2%98%85%E7%B2%BE%E9%80%89/"/>
+    <category term="★精选" scheme="https://quorawx.top/tags/%E2%98%85%E7%B2%BE%E9%80%89/"/>
     
-    <category term="2022年" scheme="http://example.com/tags/2022%E5%B9%B4/"/>
+    <category term="2022年" scheme="https://quorawx.top/tags/2022%E5%B9%B4/"/>
     
   </entry>
   
   <entry>
     <title>What is the best strategy for raising children?</title>
-    <link href="http://example.com/2022/03/20/2022/2022-03-11-What-is-the-best-strategy-for-raising-children/"/>
-    <id>http://example.com/2022/03/20/2022/2022-03-11-What-is-the-best-strategy-for-raising-children/</id>
+    <link href="https://quorawx.top/2022/03/20/2022/2022-03-11-What-is-the-best-strategy-for-raising-children/"/>
+    <id>https://quorawx.top/2022/03/20/2022/2022-03-11-What-is-the-best-strategy-for-raising-children/</id>
     <published>2022-03-20T02:21:44.837Z</published>
     <updated>2022-03-11T23:21:54.000Z</updated>
     
@@ -307,21 +307,21 @@
     
     
     
-    <category term="★精选" scheme="http://example.com/categories/%E2%98%85%E7%B2%BE%E9%80%89/"/>
+    <category term="★精选" scheme="https://quorawx.top/categories/%E2%98%85%E7%B2%BE%E9%80%89/"/>
     
     
-    <category term="Quora文选" scheme="http://example.com/tags/Quora%E6%96%87%E9%80%89/"/>
+    <category term="Quora文选" scheme="https://quorawx.top/tags/Quora%E6%96%87%E9%80%89/"/>
     
-    <category term="★精选" scheme="http://example.com/tags/%E2%98%85%E7%B2%BE%E9%80%89/"/>
+    <category term="★精选" scheme="https://quorawx.top/tags/%E2%98%85%E7%B2%BE%E9%80%89/"/>
     
-    <category term="2022年" scheme="http://example.com/tags/2022%E5%B9%B4/"/>
+    <category term="2022年" scheme="https://quorawx.top/tags/2022%E5%B9%B4/"/>
     
   </entry>
   
   <entry>
     <title>If someone sent you back in time and gave you ten minutes to sit down and talk with Adolf Hitler, what would you say to him?</title>
-    <link href="http://example.com/2022/03/20/2022/2022-03-11-If-someone-sent-you-back-in-time-and-gave-you-ten-minutes-to-sit-down-and-talk-with-Adolf-Hitler,-what-would-you-say-to-him/"/>
-    <id>http://example.com/2022/03/20/2022/2022-03-11-If-someone-sent-you-back-in-time-and-gave-you-ten-minutes-to-sit-down-and-talk-with-Adolf-Hitler,-what-would-you-say-to-him/</id>
+    <link href="https://quorawx.top/2022/03/20/2022/2022-03-11-If-someone-sent-you-back-in-time-and-gave-you-ten-minutes-to-sit-down-and-talk-with-Adolf-Hitler,-what-would-you-say-to-him/"/>
+    <id>https://quorawx.top/2022/03/20/2022/2022-03-11-If-someone-sent-you-back-in-time-and-gave-you-ten-minutes-to-sit-down-and-talk-with-Adolf-Hitler,-what-would-you-say-to-him/</id>
     <published>2022-03-20T02:21:44.836Z</published>
     <updated>2022-03-11T23:22:30.000Z</updated>
     
@@ -332,21 +332,21 @@
     
     
     
-    <category term="Quora" scheme="http://example.com/categories/Quora/"/>
+    <category term="Quora" scheme="https://quorawx.top/categories/Quora/"/>
     
-    <category term="文选" scheme="http://example.com/categories/Quora/%E6%96%87%E9%80%89/"/>
+    <category term="文选" scheme="https://quorawx.top/categories/Quora/%E6%96%87%E9%80%89/"/>
     
     
-    <category term="Quora文选" scheme="http://example.com/tags/Quora%E6%96%87%E9%80%89/"/>
+    <category term="Quora文选" scheme="https://quorawx.top/tags/Quora%E6%96%87%E9%80%89/"/>
     
-    <category term="2022年" scheme="http://example.com/tags/2022%E5%B9%B4/"/>
+    <category term="2022年" scheme="https://quorawx.top/tags/2022%E5%B9%B4/"/>
     
   </entry>
   
   <entry>
     <title>What are the bitter truths of life one should know?</title>
-    <link href="http://example.com/2022/03/20/2022/2022-03-11-What-are-the-bitter-truths-of-life-one-should-know/"/>
-    <id>http://example.com/2022/03/20/2022/2022-03-11-What-are-the-bitter-truths-of-life-one-should-know/</id>
+    <link href="https://quorawx.top/2022/03/20/2022/2022-03-11-What-are-the-bitter-truths-of-life-one-should-know/"/>
+    <id>https://quorawx.top/2022/03/20/2022/2022-03-11-What-are-the-bitter-truths-of-life-one-should-know/</id>
     <published>2022-03-20T02:21:44.836Z</published>
     <updated>2022-03-11T23:45:26.000Z</updated>
     
@@ -357,21 +357,21 @@
     
     
     
-    <category term="★精选" scheme="http://example.com/categories/%E2%98%85%E7%B2%BE%E9%80%89/"/>
+    <category term="★精选" scheme="https://quorawx.top/categories/%E2%98%85%E7%B2%BE%E9%80%89/"/>
     
     
-    <category term="Quora文选" scheme="http://example.com/tags/Quora%E6%96%87%E9%80%89/"/>
+    <category term="Quora文选" scheme="https://quorawx.top/tags/Quora%E6%96%87%E9%80%89/"/>
     
-    <category term="★精选" scheme="http://example.com/tags/%E2%98%85%E7%B2%BE%E9%80%89/"/>
+    <category term="★精选" scheme="https://quorawx.top/tags/%E2%98%85%E7%B2%BE%E9%80%89/"/>
     
-    <category term="2022年" scheme="http://example.com/tags/2022%E5%B9%B4/"/>
+    <category term="2022年" scheme="https://quorawx.top/tags/2022%E5%B9%B4/"/>
     
   </entry>
   
   <entry>
     <title>What is the key for a healthy relationship</title>
-    <link href="http://example.com/2022/03/20/2022/2022-03-09-What-is-the-key-for-a-healthy-relationship/"/>
-    <id>http://example.com/2022/03/20/2022/2022-03-09-What-is-the-key-for-a-healthy-relationship/</id>
+    <link href="https://quorawx.top/2022/03/20/2022/2022-03-09-What-is-the-key-for-a-healthy-relationship/"/>
+    <id>https://quorawx.top/2022/03/20/2022/2022-03-09-What-is-the-key-for-a-healthy-relationship/</id>
     <published>2022-03-20T02:21:44.834Z</published>
     <updated>2022-03-10T03:01:06.000Z</updated>
     
@@ -382,23 +382,23 @@
     
     
     
-    <category term="★精选" scheme="http://example.com/categories/%E2%98%85%E7%B2%BE%E9%80%89/"/>
+    <category term="★精选" scheme="https://quorawx.top/categories/%E2%98%85%E7%B2%BE%E9%80%89/"/>
     
     
-    <category term="Quora文选" scheme="http://example.com/tags/Quora%E6%96%87%E9%80%89/"/>
+    <category term="Quora文选" scheme="https://quorawx.top/tags/Quora%E6%96%87%E9%80%89/"/>
     
-    <category term="★精选" scheme="http://example.com/tags/%E2%98%85%E7%B2%BE%E9%80%89/"/>
+    <category term="★精选" scheme="https://quorawx.top/tags/%E2%98%85%E7%B2%BE%E9%80%89/"/>
     
-    <category term="爱情" scheme="http://example.com/tags/%E7%88%B1%E6%83%85/"/>
+    <category term="爱情" scheme="https://quorawx.top/tags/%E7%88%B1%E6%83%85/"/>
     
-    <category term="2022年" scheme="http://example.com/tags/2022%E5%B9%B4/"/>
+    <category term="2022年" scheme="https://quorawx.top/tags/2022%E5%B9%B4/"/>
     
   </entry>
   
   <entry>
     <title>What disgusts you?</title>
-    <link href="http://example.com/2022/03/20/2022/2022-03-08-What-disgusts-you/"/>
-    <id>http://example.com/2022/03/20/2022/2022-03-08-What-disgusts-you/</id>
+    <link href="https://quorawx.top/2022/03/20/2022/2022-03-08-What-disgusts-you/"/>
+    <id>https://quorawx.top/2022/03/20/2022/2022-03-08-What-disgusts-you/</id>
     <published>2022-03-20T02:21:44.833Z</published>
     <updated>2022-03-08T03:54:30.000Z</updated>
     
@@ -409,21 +409,21 @@
     
     
     
-    <category term="★精选" scheme="http://example.com/categories/%E2%98%85%E7%B2%BE%E9%80%89/"/>
+    <category term="★精选" scheme="https://quorawx.top/categories/%E2%98%85%E7%B2%BE%E9%80%89/"/>
     
     
-    <category term="Quora文选" scheme="http://example.com/tags/Quora%E6%96%87%E9%80%89/"/>
+    <category term="Quora文选" scheme="https://quorawx.top/tags/Quora%E6%96%87%E9%80%89/"/>
     
-    <category term="★精选" scheme="http://example.com/tags/%E2%98%85%E7%B2%BE%E9%80%89/"/>
+    <category term="★精选" scheme="https://quorawx.top/tags/%E2%98%85%E7%B2%BE%E9%80%89/"/>
     
-    <category term="2022年" scheme="http://example.com/tags/2022%E5%B9%B4/"/>
+    <category term="2022年" scheme="https://quorawx.top/tags/2022%E5%B9%B4/"/>
     
   </entry>
   
   <entry>
     <title>How do you respond when your child threatens to run away from home when they get in trouble?</title>
-    <link href="http://example.com/2022/03/20/2022/2022-03-08-How-do-you-respond-when-your-child-threatens-to-run-away-from-home-when-they-get-in-trouble/"/>
-    <id>http://example.com/2022/03/20/2022/2022-03-08-How-do-you-respond-when-your-child-threatens-to-run-away-from-home-when-they-get-in-trouble/</id>
+    <link href="https://quorawx.top/2022/03/20/2022/2022-03-08-How-do-you-respond-when-your-child-threatens-to-run-away-from-home-when-they-get-in-trouble/"/>
+    <id>https://quorawx.top/2022/03/20/2022/2022-03-08-How-do-you-respond-when-your-child-threatens-to-run-away-from-home-when-they-get-in-trouble/</id>
     <published>2022-03-20T02:21:44.831Z</published>
     <updated>2022-03-10T03:10:34.000Z</updated>
     
@@ -434,21 +434,21 @@
     
     
     
-    <category term="★精选" scheme="http://example.com/categories/%E2%98%85%E7%B2%BE%E9%80%89/"/>
+    <category term="★精选" scheme="https://quorawx.top/categories/%E2%98%85%E7%B2%BE%E9%80%89/"/>
     
     
-    <category term="Quora文选" scheme="http://example.com/tags/Quora%E6%96%87%E9%80%89/"/>
+    <category term="Quora文选" scheme="https://quorawx.top/tags/Quora%E6%96%87%E9%80%89/"/>
     
-    <category term="★精选" scheme="http://example.com/tags/%E2%98%85%E7%B2%BE%E9%80%89/"/>
+    <category term="★精选" scheme="https://quorawx.top/tags/%E2%98%85%E7%B2%BE%E9%80%89/"/>
     
-    <category term="2022年" scheme="http://example.com/tags/2022%E5%B9%B4/"/>
+    <category term="2022年" scheme="https://quorawx.top/tags/2022%E5%B9%B4/"/>
     
   </entry>
   
   <entry>
     <title>Why, when parents argue in front of a young child, does the child seem to favor the aggressor</title>
-    <link href="http://example.com/2022/03/20/2022/2022-03-07-Why-when-parents-argue-in-front-of-a-young-child-does-the-child-seem-to-favor-the-aggressor/"/>
-    <id>http://example.com/2022/03/20/2022/2022-03-07-Why-when-parents-argue-in-front-of-a-young-child-does-the-child-seem-to-favor-the-aggressor/</id>
+    <link href="https://quorawx.top/2022/03/20/2022/2022-03-07-Why-when-parents-argue-in-front-of-a-young-child-does-the-child-seem-to-favor-the-aggressor/"/>
+    <id>https://quorawx.top/2022/03/20/2022/2022-03-07-Why-when-parents-argue-in-front-of-a-young-child-does-the-child-seem-to-favor-the-aggressor/</id>
     <published>2022-03-20T02:21:44.830Z</published>
     <updated>2022-03-15T07:39:46.000Z</updated>
     
@@ -459,21 +459,21 @@
     
     
     
-    <category term="Quora" scheme="http://example.com/categories/Quora/"/>
+    <category term="Quora" scheme="https://quorawx.top/categories/Quora/"/>
     
-    <category term="文选" scheme="http://example.com/categories/Quora/%E6%96%87%E9%80%89/"/>
+    <category term="文选" scheme="https://quorawx.top/categories/Quora/%E6%96%87%E9%80%89/"/>
     
     
-    <category term="Quora文选" scheme="http://example.com/tags/Quora%E6%96%87%E9%80%89/"/>
+    <category term="Quora文选" scheme="https://quorawx.top/tags/Quora%E6%96%87%E9%80%89/"/>
     
-    <category term="2022年" scheme="http://example.com/tags/2022%E5%B9%B4/"/>
+    <category term="2022年" scheme="https://quorawx.top/tags/2022%E5%B9%B4/"/>
     
   </entry>
   
   <entry>
     <title>What are some psychological facts about love</title>
-    <link href="http://example.com/2022/03/20/2022/2022-03-07-What-are-some-psychological-facts-about-love/"/>
-    <id>http://example.com/2022/03/20/2022/2022-03-07-What-are-some-psychological-facts-about-love/</id>
+    <link href="https://quorawx.top/2022/03/20/2022/2022-03-07-What-are-some-psychological-facts-about-love/"/>
+    <id>https://quorawx.top/2022/03/20/2022/2022-03-07-What-are-some-psychological-facts-about-love/</id>
     <published>2022-03-20T02:21:44.829Z</published>
     <updated>2022-03-07T12:58:56.000Z</updated>
     
@@ -484,21 +484,21 @@
     
     
     
-    <category term="★精选" scheme="http://example.com/categories/%E2%98%85%E7%B2%BE%E9%80%89/"/>
+    <category term="★精选" scheme="https://quorawx.top/categories/%E2%98%85%E7%B2%BE%E9%80%89/"/>
     
     
-    <category term="Quora文选" scheme="http://example.com/tags/Quora%E6%96%87%E9%80%89/"/>
+    <category term="Quora文选" scheme="https://quorawx.top/tags/Quora%E6%96%87%E9%80%89/"/>
     
-    <category term="★精选" scheme="http://example.com/tags/%E2%98%85%E7%B2%BE%E9%80%89/"/>
+    <category term="★精选" scheme="https://quorawx.top/tags/%E2%98%85%E7%B2%BE%E9%80%89/"/>
     
-    <category term="2022年" scheme="http://example.com/tags/2022%E5%B9%B4/"/>
+    <category term="2022年" scheme="https://quorawx.top/tags/2022%E5%B9%B4/"/>
     
   </entry>
   
   <entry>
     <title>What 10 things have you stopped doing in your life?</title>
-    <link href="http://example.com/2022/03/20/2022/2022-03-06-What-10-things-have-you-stopped-doing-in-your-life/"/>
-    <id>http://example.com/2022/03/20/2022/2022-03-06-What-10-things-have-you-stopped-doing-in-your-life/</id>
+    <link href="https://quorawx.top/2022/03/20/2022/2022-03-06-What-10-things-have-you-stopped-doing-in-your-life/"/>
+    <id>https://quorawx.top/2022/03/20/2022/2022-03-06-What-10-things-have-you-stopped-doing-in-your-life/</id>
     <published>2022-03-20T02:21:44.828Z</published>
     <updated>2022-03-15T04:06:44.000Z</updated>
     
@@ -509,14 +509,14 @@
     
     
     
-    <category term="Quora" scheme="http://example.com/categories/Quora/"/>
+    <category term="Quora" scheme="https://quorawx.top/categories/Quora/"/>
     
-    <category term="文选" scheme="http://example.com/categories/Quora/%E6%96%87%E9%80%89/"/>
+    <category term="文选" scheme="https://quorawx.top/categories/Quora/%E6%96%87%E9%80%89/"/>
     
     
-    <category term="Quora文选" scheme="http://example.com/tags/Quora%E6%96%87%E9%80%89/"/>
+    <category term="Quora文选" scheme="https://quorawx.top/tags/Quora%E6%96%87%E9%80%89/"/>
     
-    <category term="2022年" scheme="http://example.com/tags/2022%E5%B9%B4/"/>
+    <category term="2022年" scheme="https://quorawx.top/tags/2022%E5%B9%B4/"/>
     
   </entry>
   
